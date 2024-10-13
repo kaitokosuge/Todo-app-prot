@@ -1,0 +1,10 @@
+/Users/kosugekaito/Documents/my-todo/target/debug/deps/libhttparse-1d3eca159db2de64.rmeta: /Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs /Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs /Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs /Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs /Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs /Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/neon.rs
+
+/Users/kosugekaito/Documents/my-todo/target/debug/deps/httparse-1d3eca159db2de64.d: /Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs /Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs /Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs /Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs /Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs /Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/neon.rs
+
+/Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/lib.rs:
+/Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/iter.rs:
+/Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/macros.rs:
+/Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/mod.rs:
+/Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/swar.rs:
+/Users/kosugekaito/.cargo/registry/src/index.crates.io-6f17d22bba15001f/httparse-1.9.5/src/simd/neon.rs:
