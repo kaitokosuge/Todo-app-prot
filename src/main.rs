@@ -124,25 +124,4 @@ async fn root() -> &'static str {
     "Hello world"
 }
 
-// async fn create_user(
-//     Json(payload):Json<CreateUser>,
-// ) -> impl IntoResponse {
 
-//     let user = User {
-//         id:1337,
-//         username:payload.username,
-//     };
-
-//     (StatusCode::CREATED,Json(user))
-// }
-
-// #[derive(Deserialize)]
-// struct CreateUser {
-//     username:String
-// }
-
-// #[derive(Serialize)]
-// struct User {
-//     id:u64,
-//     username:String,
-// }
